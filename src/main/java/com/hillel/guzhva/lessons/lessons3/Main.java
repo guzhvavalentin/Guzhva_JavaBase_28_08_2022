@@ -5,7 +5,7 @@ public class Main {
         int a = 5;
         int b = 5;
         int h = 5;
-        int volume = 5*5*5;
+        int volume = a*b*h;
         System.out.println("Volume Parallelepiped = " + volume);
 
         System.out.println();
