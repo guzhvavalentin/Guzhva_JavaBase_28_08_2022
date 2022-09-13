@@ -11,7 +11,6 @@ public class Main {
         final int a = 5;
         int result1 = (gamer1+gamer2+gamer3+gamer4+gamer5) / a;
 
-
         int shooter1 = 4;
         int shooter2 = 8;
         int shooter3 = 7;
