@@ -7,8 +7,9 @@ public class Main {
         int warrior = 13;
         int archer = 24;
         int rider = 46;
+        int a = 860;
 
-        int li = (warrior + archer + rider) * 860;
+        int li = (warrior + archer + rider) * a;
         System.out.println(li);
 
         System.out.println();
@@ -18,9 +19,10 @@ public class Main {
         int warrior2 = 9;
         int archer2 = 35;
         int rider2 = 12;
+        final double b = 1.5;
 
-        int min = (warrior2 + archer2 + rider2) *860;
-        double min2 = min *1.5;
+        int min = (warrior2 + archer2 + rider2) *a;
+        double min2 = min *b;
 
         System.out.println((int)min2);
 
